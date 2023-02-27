@@ -1,0 +1,23 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 400;
+    height: 200;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 20px;
+}
+​
+
+.card-title{
+    font-size: 26px;
+    color: #333;
+    margin-bottom: 10px;
+}
+​
+.card-discount{
+    font-size: 15px;
+    color: red;
+    font-weight: bold;
+}
